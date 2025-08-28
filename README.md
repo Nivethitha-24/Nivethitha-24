@@ -4,7 +4,7 @@
 <h1 align="center">Hi there 👋, I'm Nivethitha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=00C2CB&size=28&center=true&vCenter=true&width=550&lines=B.Sc+Computer+Technology+Student;Web+Developer+%7C+Cybersecurity+Enthusiast;AI%2FML+Learner+%7C+DevOps+Explorer;Passionate+about+R%26D+Projects" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=00C2CB&size=28&center=true&vCenter=true&width=550&lines=M.Sc+Software+Systems+Student;Web+Developer+%7C+Cybersecurity+Enthusiast;AI%2FML+Learner+%7C+DevOps+Explorer;Passionate+about+R%26D+Projects" alt="Typing Animation"/>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 ## 🏅 Certifications & Highlights  
 - 🎖️ **Google – Foundations of Cybersecurity (Coursera)**  
 - 🏆 **Tata Forage – Cybersecurity Analyst Job Simulation** (IAM strategy, platform integration)  
-- 🎓 **B.Sc Computer Technology**  
+- 🎓 **M.Sc Software Systems**  
 
 ---
 
